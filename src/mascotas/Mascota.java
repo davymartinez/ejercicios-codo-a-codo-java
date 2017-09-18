@@ -43,7 +43,7 @@ public abstract class Mascota implements CapazDeComer {
 
     @Override
     public String toString() {
-    	return nombre + ", " + edad + " a�os, " + peso + " kg.";
+    	return nombre + ", " + edad + " años, " + peso + " kg.";
     }
     
     // ¿Cómo se expresa? Depende qué tipo de mascota.
